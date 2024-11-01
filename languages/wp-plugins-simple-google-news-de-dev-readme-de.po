@@ -1,0 +1,147 @@
+# Translation of Development Readme (trunk) in German
+# This file is distributed under the same license as the Development Readme (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-04-21 13:54+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.7\n"
+"Project-Id-Version: Development Readme (trunk)\n"
+"POT-Creation-Date: \n"
+"Last-Translator: Sammy Zimmermanns <info@internet-pr-beratung.de>\n"
+"Language-Team: \n"
+"Language: de\n"
+
+#. Name.
+msgid "Simple Google News DE"
+msgstr "Simple Google News DE"
+
+#. Short description.
+msgid "Binde mit diesem einfachen Plugin den Google News Stream zu einem bestimmten Thema in die Sidebar, Deine Artikel oder Seiten ein."
+msgstr "Binde mit diesem einfachen Plugin den Google News Stream zu einem bestimmten Thema in die Sidebar, Deine Artikel oder Seiten ein."
+
+#. Found in description header.
+msgid "Parameter"
+msgstr "Parameter"
+
+#. Found in description list item.
+msgid "r (Relevanz)"
+msgstr "r (Relevanz)"
+
+#. Found in description list item.
+msgid "n nach Datum (neuste zuerst)"
+msgstr "n nach Datum (neuste zuerst)"
+
+#. Found in description list item.
+msgid "d nach Datum (neuste zuerst mit Duplikaten)"
+msgstr "d nach Datum (neuste zuerst mit Duplikaten)"
+
+#. Found in description list item.
+msgid "b (Wirtschaft)"
+msgstr "b (Wirtschaft)"
+
+#. Found in description list item.
+msgid "t (Technik)"
+msgstr "t (Technik)"
+
+#. Found in description list item.
+msgid "e (Unterhaltung)"
+msgstr "e (Unterhaltung)"
+
+#. Found in description list item.
+msgid "s (Sport)"
+msgstr "s (Sport)"
+
+#. Found in description list item.
+msgid "snc (Wissenschaft)"
+msgstr "snc (Wissenschaft)"
+
+#. Found in description list item.
+msgid "m (Gesundheit)"
+msgstr "m (Gesundheit)"
+
+#. Found in description list item.
+msgid "ir (Schlagzeilen)"
+msgstr "ir (Schlagzeilen)"
+
+#. Found in description paragraph.
+msgid "Dieses Plugin kann als Widget oder per Shortcode genutzt werden."
+msgstr "Dieses Plugin kann als Widget oder per Shortcode genutzt werden."
+
+#. Found in description paragraph.
+msgid "[google_news]"
+msgstr "[google_news]"
+
+#. Found in description paragraph.
+msgid "Es gibt eine Handvoll  optionale Parameter, die man verwenden kann, um die Ausgabe anzupassen."
+msgstr "Es gibt eine Handvoll  optionale Parameter, die man verwenden kann, um die Ausgabe anzupassen."
+
+#. Found in description paragraph.
+msgid "<strong>query</strong> <em>Default: none</em>. Verwende diese Option, wenn Du Nachrichten zu einem bestimmten Wort oder Ausdruck von Google News einbinden moechtest."
+msgstr "<strong>query</strong> <em>Default: none</em>. Verwende diese Option, wenn Du Nachrichten zu einem bestimmten Wort oder Ausdruck von Google News einbinden moechtest."
+
+#. Found in description paragraph.
+msgid "<strong>limit</strong> <em>Default: 5, Max: 10</em>. Mit dem Parameter \"Limit\", kannst Du die maximale Anzahl der Ergebnisse festlegen, die in Deinem Beitrag oder Seite angezeigt werden."
+msgstr "<strong>limit</strong> <em>Default: 5, Max: 10</em>. Mit dem Parameter \"Limit\", kannst Du die maximale Anzahl der Ergebnisse festlegen, die in Deinem Beitrag oder Seite angezeigt werden."
+
+#. Found in description paragraph.
+msgid "<strong>topic</strong>  <em>Default: none</em>. Dieser Parameter zeigt Neuigkeiten nach einem Thema an (z.B.: Technologie, Unterhaltung, usw. Zum Beispiel, Technik Ergebnisse werden, mit diesen Shortcode angezeigt:"
+msgstr "<strong>topic</strong>  <em>Default: none</em>. Dieser Parameter zeigt Neuigkeiten nach einem Thema an (z.B.: Technologie, Unterhaltung, usw. Zum Beispiel, Technik Ergebnisse werden, mit diesen Shortcode angezeigt:"
+
+#. Found in description paragraph.
+msgid "[google_news limit=\"2\" topic=\"t\"]"
+msgstr "[google_news limit=\"2\" topic=\"t\"]"
+
+#. Found in description paragraph.
+msgid "[google_news query=\"android\" topic=\"t\"]"
+msgstr "[google_news query=\"android\" topic=\"t\"]"
+
+#. Found in description paragraph.
+msgid "Google News wird also diese Abfrage zu ignorieren."
+msgstr "Google News wird also diese Abfrage zu ignorieren."
+
+#. Found in description paragraph.
+msgid "Die Themen Werte kannst Du nutzen:"
+msgstr "Die Themen Werte kannst Du nutzen:"
+
+#. Found in installation list item.
+msgid "Upload von 'simple-google-news-de' in das Verzeichniss '/wp-content/plugins/'"
+msgstr "Upload von 'simple-google-news-de' in das Verzeichniss '/wp-content/plugins/'"
+
+#. Found in installation list item.
+msgid "Gebe den Shortcode[google_news] in Deinen Artikel oder Seite ein."
+msgstr "Gebe den Shortcode[google_news] in Deinen Artikel oder Seite ein."
+
+#. Found in faq header.
+msgid "Ich verwende den Shortcode und nichts passiert!"
+msgstr "Ich verwende den Shortcode und nichts passiert!"
+
+#. Found in faq paragraph.
+msgid "Das kann zwei Ursachen haben.  Erstens es gibt kein Google News Ergebnis zu Deinem Begriff. Schaue auf news.google.com, ob Google News Dir ein Ergebnis liefert. Zweitens, es wurde ein falscher Wert im Shortcode angegeben."
+msgstr "Das kann zwei Ursachen haben.  Erstens es gibt kein Google News Ergebnis zu Deinem Begriff. Schaue auf news.google.com, ob Google News Dir ein Ergebnis liefert. Zweitens, es wurde ein falscher Wert im Shortcode angegeben."
+
+#. Found in changelog list item.
+msgid "Kleinere Korreturen in der Beschreibung des Plugins"
+msgstr "Kleinere Korreturen in der Beschreibung des Plugins"
+
+#. Found in changelog list item.
+msgid "Plugin hat jetzt ein Icon und Banner "
+msgstr "Plugin hat jetzt ein Icon und Banner "
+
+#. Found in changelog list item.
+msgid "Admin Panel mit Shortcode Beispielen"
+msgstr "Admin Panel mit Shortcode Beispielen"
+
+#. Found in changelog list item.
+msgid "Bugfix"
+msgstr "Bugfix"
+
+#. Found in changelog list item.
+msgid "Bugfix and check compatibility to WP 4.3"
+msgstr "Bugfix and check compatibility to WP 4.3"
+
+#. Found in changelog list item.
+msgid "Small SEO improvements for news images and check compatibility to WP 4.4"
+msgstr "Kleinere SEO Verbesserungen für Nachrichtenbilder und Kompatibilitätscheck mit WP 4.4"

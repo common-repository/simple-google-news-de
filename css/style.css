@@ -1,0 +1,48 @@
+.newsresult {
+	padding-top: 10px;
+}
+
+.newsresult p {
+	margin-left:0;
+}
+
+.newsresult a {
+	margin-bottom: 5px;
+	display: block;
+	text-decoration: none;
+	border: none;
+}
+
+.newsimage {
+	float: left;
+	margin-right: 15px;
+}
+
+.smallattribution {
+	color: #999;
+}
+
+.googleattribution {
+	float:right;
+}
+
+.clear {
+	clear:both;
+}	
+
+.sidebar .newsresult {
+	border-bottom: 1px solid #ccc;
+	padding: 10px 0;
+}
+
+.sidebar .newsresult img {
+	width: 45px;
+}
+
+.sidebar .smallattribution {
+	font-size: 75%;
+}
+
+.sidebar p.googleattribution {
+	margin-top:15px;
+}
